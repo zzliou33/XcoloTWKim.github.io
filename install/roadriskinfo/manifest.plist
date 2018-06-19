@@ -1,0 +1,37 @@
+<!-- manifest.plist -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+     <key>items</key>
+     <array>
+          <dict>
+               <key>assets</key>
+               <array>
+                    <dict>
+                         <key>kind</key>
+                         <string>software-package</string>
+                         <key>url</key>
+                         <!-- 앱 다운로드 URL -->
+                         <!-- 링크 생성으로 생성한 url과 다름. 주의. -->
+                         <string>https://doc-0c-3k-docs.googleusercontent.com/docs/securesc/bv9ppir4cik2qsqng190315dtcan190d/fl5viu7u92dip4asgtv00niglhbdih6g/1529373600000/08894957767835350486/08894957767835350486/1982B7wKZ0TFdSJ8Wt09RKhVzezrH3Eyw?e=download&h=12762056684542293297&nonce=68g6olrumupee&user=08894957767835350486&hash=83adstos3qkaq2itec7qd2ag0drtpu3e</string>
+                    </dict>
+               </array>
+               <key>metadata</key>
+               <dict>
+                    <key>bundle-identifier</key>
+                    <!-- app package name -->
+                    <string>kr.co.xcolo.roadriskinfoapp</string>
+                    <key>bundle-version</key>
+                    <!-- app version -->
+                    <string>1.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <!-- iOS에서 설치시 표시될 이름. 설치된 앱 이름과 다름. -->
+                    <string>도로위험정보수집</string>
+               </dict>
+          </dict>
+     </array>
+</dict>
+</plist>
