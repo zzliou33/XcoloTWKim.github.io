@@ -14,7 +14,7 @@
                          <key>url</key>
                          <!-- 앱 다운로드 URL -->
                          <!-- 링크 생성으로 생성한 url과 다름. 주의. -->
-                         <string>https://raw.githubusercontent.com/XcoloTWKim/XcoloTWKim.github.io/master/install/roadriskinfo/roadriskinfoapp.ipa</string>
+                         <string>https://xcolotwkim.github.io/install/roadriskinfo/roadriskinfoapp.ipa</string>
                     </dict>
                </array>
                <key>metadata</key>
